@@ -1,0 +1,10 @@
+[splunk]
+host = "localhost"
+port = 9091
+user = "admin"
+password = "admin1234"
+
+[microsoft_sentinel]
+customer_id = '97e2db05-0037-49e5-a6d0-8ce0ce4c4e3d'
+shared_key = "ioht9zXC2Bbw9NqCP3c5cq4Zk8qmnQ5V25wDbmiXOLtKzbeEhn5jT76TeA8rcMDI6AZdzujCnBu1KP0uSzc4nw=="
+log_type = 'WinEventLog'
